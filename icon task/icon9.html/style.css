@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=PT+Sans&display=swap');
+
+body{
+    background-color:midnightblue;
+}
+div{
+    background-color:white;
+    height:650px;
+    width:600px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+}
+h1{
+    margin-top: 20px;
+    text-align: center;
+    
+}
+table {
+    margin-right: auto;
+    margin-left: auto;
+}
+.licon{
+    background-color: red;
+    color:white;
+    border-color: red;
+    height: 40px;
+    width: 318px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+#ficon{
+    background-color: blue;
+    height:40px;
+    width:90px;
+    margin-top: 25px;
+    border-color:blue;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+#ticon{
+    background-color: cornflowerblue;
+    height:40px;
+    width:90px;
+    margin-top: 25px;
+    border-color:cornflowerblue ;
+    border-radius: 5px;
+}
+#gicon{
+    background-color: crimson;
+    height:40px;
+    width:90px;
+    margin-top: 25px;
+    border-color:crimson;
+    margin-left: 15px;
+    border-radius: 5px;
+
+}
+input{
+    height:40px;
+    width: 310px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 5px;
+}
+p{
+    text-align: center;
+}

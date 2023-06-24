@@ -1,0 +1,42 @@
+ @import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+img{
+    height:250px;
+    width:400px;   
+}
+div{
+    height:550px;
+    width:400px;
+    background-color:white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    /* font-family: 'PT Sans', sans-serif; */
+    font-size:medium;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/805183238/photo/blue-java-computer-code.jpg?s=612x612&w=0&k=20&c=VGHesKyfBK7adIsPWrUbUyHkQ4873spclxKVZ6ofQig=);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p{
+    font-size: 20px;
+    margin-left: 30px;
+}
+td{
+    /* line-height:1; */
+    padding-left:30px;
+}
+button{
+    background-color: red;
+    color: white;
+    margin-left: 10px;
+    border-radius: 5px;
+    height: 35px;
+    border-color: red;
+}
+input{
+    margin-top: 30px;
+    height: 30px;
+
+}

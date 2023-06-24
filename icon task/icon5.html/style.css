@@ -1,0 +1,62 @@
+body{
+    background-color:rgb(193, 191, 191);
+}
+div {
+    background:center;
+    background-color:white;
+    max-width: 75%;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto; 
+    height: 600px;  
+}
+h1{
+    text-align:center;
+    font-family:'Quicksand', sans-serif;
+    padding-top: 3%;
+}
+hr{
+    width:100px;
+    height:2px;
+    background-color: red;
+}
+p{
+    text-align: center;
+    color:darkgray;
+}
+button{
+    background-color:red;
+    color:aquamarine;
+    width: 100px;
+    height: 30px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    margin-top:20px;
+}
+i{
+     font-size: 30px;
+     margin-right: 10px;
+}
+input{
+        height:30px;
+        margin-left:40px;
+}
+textarea{
+        margin-left: 40px;
+}
+h4{
+
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+#Name222,#Email111
+{
+    height: 50px;
+    width: 300px;
+}
+#yourmessage333{
+    height:100px;
+    width:300px;
+}
