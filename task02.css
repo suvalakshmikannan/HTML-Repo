@@ -1,0 +1,232 @@
+body{
+    background:linear-gradient( to right top, #D2B8AA 5%, #7D4E54 95%);
+    width: 100vw;
+    height: 100vh;       
+}
+.one{
+    background-color: aliceblue;
+    height: 500px;
+    width: 350px;
+    position: relative;
+    top:100px;
+    left:180px;
+}
+.firstimg{
+    height: 115px;
+    width:350px;
+}
+.tamannaimg{
+    height:100px;
+    width:100px;
+    border-radius: 50px;
+    position: relative;
+    top:-50px;
+    left:120px;
+}
+.sigaone{
+    font-size:22px;
+    font-weight: bolder;
+    position: relative;
+    top:-50px;
+    left:100px;
+}
+.sigatwo{
+    font-size: 18px;
+    font-weight: lighter;
+    color: darkgrey;
+    position: relative;
+    top:-70px;
+    left:117px;
+}
+.sigathree{
+    font-weight: bold;
+    position: relative;
+    top:-60px;
+    left: 60px;
+
+}
+.sigafour{
+    font-weight: bold;
+    position: relative;
+    top:-70px;
+    left: 80px;
+}
+.sigafive{
+    font-weight: bold;
+    position: relative;
+    top:-80px;
+    left: 70px;
+}
+.sigasix{
+    font-weight: bold;
+    position: relative;
+    top:-90px;
+    left: 120px;
+}
+.sigaseven{
+    color: darkgray;
+    font-size: 20px;
+    font-weight: lighter;
+    position: relative;
+    top:-65px;
+    left:120px;
+}
+.two{
+    background-color:aliceblue;
+    height: 500px;
+    width: 350px;
+    position: relative;
+    left:380px;
+    top:-400px;
+    transform: perspective(1500px) rotateY(45deg);
+}
+.secondimg{
+    height: 115px;
+    width:350px;
+}
+.tamannaimg2{
+    height: 100px;
+    width:100px;
+    border-radius: 50px;
+    position: relative;
+    top:-50px;
+    left:120px;
+}
+.three{
+    background-color: aliceblue;
+    height:470px;
+    width:10px;
+    position: relative;
+    left:735px;
+    top:-890px;
+}
+.paraone{
+    font-size: 20px;
+    position: relative;
+    top:30px;
+    left:55px;   
+}
+.paratwo{
+    font-size: 20px;
+    position: relative;
+    top:10px;
+    left:100px;  
+}
+.parathree{
+    font-size: 22px;
+    font-weight:bolder;
+    position: relative;
+    top:20px;
+    left:101px;
+}
+.parafour{
+    font-size:17px;
+    font-weight: bold;
+    position: relative;
+    top:20px;
+    left:43px;
+}
+.parafive{
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    top:10px;
+    left:43px;
+}
+.parasix{
+    font-size: 17px;
+    font-weight: bold;
+    position: relative;
+    top:-3px;
+    left:130px;
+}
+.paraseven{
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top:50px;
+    left:50px;
+}
+.paraeight{
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top:11px;
+    left:160px;
+}
+.paranine{
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top:-28px;
+    left:275px;
+}
+.paraten{
+    font-weight: lighter;
+    position: relative;
+    top:-35px;
+    left:30px;
+}
+.paraeleven{
+    font-weight: lighter;
+    position: relative;
+    top:-69px;
+    left:140px;
+}
+.paratwelve{
+    font-weight: lighter;
+    position: relative;
+    top:-103px;
+    left:265px;
+}
+.four{
+    background-color: aliceblue;
+    height: 500px;
+    width: 350px;
+    position: relative;
+    top:-1390px;
+    left:760px;
+    transform: perspective(1500px) rotatey(-40deg);
+}
+.five{
+    background-color:aliceblue;
+    height: 500px;
+    width: 350px;
+    position: relative;
+    top:-1910px;
+    left:980px;
+    z-index: -1;
+}
+.hrone{
+    position: relative;
+    top:-60px;
+}
+.iconone{
+    font-size: 21px;
+    position: relative;
+    top:-52px;
+    left:110px;
+}
+.icontwo{
+    font-size: 25px;
+    position: relative;
+    top:-50px;
+    left:140px;
+}
+.iconthree{
+    font-size: 25px;
+    position: relative;
+    top:-50px;
+    left:160px;
+}
+.hrtwo{
+    color: darkgray;
+    position: relative;
+    top:-30px;
+}
+.arrow{
+    font-size: 20px;
+    position: relative;
+    top:-22px;
+    left:95px;
+}
